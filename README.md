@@ -62,7 +62,7 @@ A comprehensive Power BI dashboard that provides real-time analytics and insight
 5. 🔄 Refresh the data
 
 ## Data Requirements 📋
-* ⏰ Sales data with timestamp
+* ⏰ Sales data without timestamp
 * 📦 Product hierarchy
 * 👥 Customer segments
 * 🗺️ Geographic information
